@@ -1,0 +1,6 @@
+generatorName: apache-seclang
+outputDir: samples/documentation/petstore/apache/seclang
+inputSpec: modules/openapi-generator/src/test/resources/3_0/petstore.yaml
+templateDir: modules/openapi-generator/src/main/resources/apache-seclang
+additionalProperties:
+  hideGenerationTimestamp: "true"
